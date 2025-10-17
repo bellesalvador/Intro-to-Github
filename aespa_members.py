@@ -17,3 +17,5 @@ def show_members():
 # Run the function
 if __name__ == "__main__":
     show_members()
+
+print("\nThis simple program is part of my Introduction to GitHub assignment.")
